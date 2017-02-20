@@ -1,7 +1,7 @@
 {
   "name": "wrench-sui",
   "description": "A forked version of wrenchjs that includes a critical recursive file fix. Credits to the original author(s) Ryan McGrath.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "author": "Jack Lukic <jack@semantic-ui.com>",
 
   "repository": {
