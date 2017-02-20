@@ -1,16 +1,16 @@
 {
-  "name": "wrench",
-  "description": "Recursive filesystem (and other) operations that Node *should* have.",
-  "version": "1.5.8",
-  "author": "Ryan McGrath <ryan@venodesigns.net>",
+  "name": "wrench-sui",
+  "description": "A forked version of wrenchjs that includes a critical recursive file fix. Credits to the original author(s) Ryan McGrath.",
+  "version": "0.0.1",
+  "author": "Jack Lukic <jack@semantic-ui.com>",
 
   "repository": {
     "type" : "git",
-    "url": "https://ryanmcgrath@github.com/ryanmcgrath/wrench-js.git"
+    "url": "https://github.com/Semantic-Org/wrench-js.git"
   },
 
   "bugs": {
-    "url": "http://github.com/ryanmcgrath/wrench-js/issues"
+    "url": "http://github.com/Semantic-Org/Wrench-JS/issues"
   },
 
   "directories": {
@@ -26,10 +26,10 @@
 
   "main": "./lib/wrench",
 
-  "engines": { 
+  "engines": {
     "node": ">=0.1.97"
   },
-  
+
   "scripts": { "test": "nodeunit tests/runner.js" },
 
   "licenses": [{
